@@ -6,4 +6,4 @@ I am passionate about building clean, intuitive user interfaces and delivering h
 
 In my previous roles, I have worked on a variety of projects ranging from small websites to large-scale applications, and have gained experience in all stages of the development process from concept to deployment. I am a proactive and reliable team player, and am comfortable working in both collaborative and independent environments.
 
-Overall, I believe that my skills and experience make me a valuable asset as a frontend developer, and I am excited to continue learning and growing in this field.
+I believe that my skills and experience make me a valuable asset as a frontend developer, and I am excited to continue learning and growing in this field.
